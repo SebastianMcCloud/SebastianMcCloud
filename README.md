@@ -5,7 +5,9 @@
 
 💻 I work on a **Lenovo ThinkPad X280** with **Fedora KDE Plasma**.
 
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff) ![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?logo=kdeplasma&logoColor=fff)
+![ThinkPad Badge](https://img.shields.io/badge/ThinkPad-EE2624?logo=thinkpad&logoColor=fff&style=flat)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff) 
+![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?logo=kdeplasma&logoColor=fff)
 
 ## 🛠️ Tech Stack
 
@@ -28,6 +30,7 @@
 🔧 **Other:**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![Red Hat Badge](https://img.shields.io/badge/Red%20Hat-E00?logo=redhat&logoColor=fff&style=flat)
 
 
 ## 📌 More About Me
