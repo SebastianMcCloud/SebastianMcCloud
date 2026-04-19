@@ -34,7 +34,9 @@
 
 🔭 **Currently working on:** `A GUI for F3 (Fight Flash Fraud)`
 
-🌱 **Currently learning:** `GTK` `Qt`
+🌱 **Currently learning:**
+![GTK](https://img.shields.io/badge/GTK-73A0D0?logo=GTK&logoColor=fff)
+![Qt](https://img.shields.io/badge/Qt-2CDE85?logo=Qt&logoColor=fff)
 
 💬 **Ask me about:** `Python` `Linux` `Frontend`
 
