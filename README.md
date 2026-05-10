@@ -23,6 +23,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
 
+
 ⚙️ **IDE:**
 ![Zed](https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)
@@ -35,12 +36,11 @@
 
 ## 📌 More About Me
 
-🔭 **Currently working on:** `A GUI for F3 (Fight Flash Fraud)`
+🔭 **Currently working on:** `PokéDex-like app for smartphones`
 
 🌱 **Currently learning:**
-![GTK](https://img.shields.io/badge/GTK-73A0D0?logo=GTK&logoColor=fff)
-![Qt](https://img.shields.io/badge/Qt-2CDE85?logo=Qt&logoColor=fff)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)
+[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 
-💬 **Ask me about:** `Python` `Linux` `Frontend`
-
-⚡ **Fun fact:** _"i just like python"_
+💬 **Ask me about:** `Python` `Linux` `System Administration`
