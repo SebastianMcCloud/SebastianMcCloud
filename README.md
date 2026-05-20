@@ -36,11 +36,10 @@
 
 ## 📌 More About Me
 
-🔭 **Currently working on:** `PokéDex-like app for smartphones`
+🔭 **Currently working on:** `PokéDex-like app`
 
 🌱 **Currently learning:**
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)
-[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#)
+![GTK](https://img.shields.io/badge/GTK-73A0D0?logo=GTK&logoColor=fff)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 
 💬 **Ask me about:** `Python` `Linux` `System Administration`
