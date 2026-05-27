@@ -3,11 +3,11 @@
 
 🎓 CS student at **Università Pegaso**
 
-💻 I work on a **Lenovo ThinkPad X280** with **Fedora KDE Plasma**.
+💻 I work on a **Lenovo ThinkPad X280** with **Fedora Workstation**.
 
 ![ThinkPad Badge](https://img.shields.io/badge/ThinkPad-EE2624?logo=thinkpad&logoColor=fff&style=flat)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff) 
-![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?logo=kdeplasma&logoColor=fff)
+![GNOME](https://img.shields.io/badge/GNOME-4A86CF?logo=gnome&logoColor=fff)
 
 ## 🛠️ Tech Stack
 
